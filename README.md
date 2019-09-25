@@ -1,1 +1,1 @@
-# spring-application-progdist
+# basic-spring-application
